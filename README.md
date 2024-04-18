@@ -9,6 +9,8 @@
 
 This bundle provides step-by-step instructions for deploying and testing Hazelcast Platform Operator, Hazelcast, and PadoGrid.
 
+![Hazelcast Platform Operator](images/hz-operator-helm.drawio.png)
+
 ## Installing Bundle
 
 ```bash
