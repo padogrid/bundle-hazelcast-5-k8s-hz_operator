@@ -1,1 +1,1 @@
-This bundle serves as a template for creating a new Hazelcast bundle. Run `show_bundle bundle-hazelcast-template` to see instructions.
+This bundle provides step-by-step instructions for deploying and testing Hazelcast Platform Operator, Hazelcast, and PadoGrid.
